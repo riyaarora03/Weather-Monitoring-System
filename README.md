@@ -13,9 +13,6 @@ A user-friendly dashboard will be developed to visualize the weather data in a c
 ### • Alert Mechanisms: 
 The system will incorporate automated alert mechanisms to notify stakeholders of im- pending weather-related threats or anomalies. Whether it’s a sudden increase in precipitation, gusty winds, or a potential avalanche risk, timely alerts via email, SMS, and coordination among the plant’s personnel and relevant authorities.
 
-## Control Flow Diagram
-![Image Alt Text](https://app.gemoo.com/share/image-annotation/628803917665546240?codeId=PalebAGkeJ8ZG&origin=imageurlgenerator&card=628803914410766336)
-
 ![Image Alt Text](https://github.com/riyaarora03/Weather-Monitoring-System/blob/main/screenshots/m11.png)
 ![Image Alt Text](https://github.com/riyaarora03/Weather-Monitoring-System/blob/main/screenshots/m10.png)
 ![Image Alt Text](https://github.com/riyaarora03/Weather-Monitoring-System/blob/main/screenshots/m9.png)
